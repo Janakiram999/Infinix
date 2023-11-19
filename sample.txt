@@ -1,0 +1,10 @@
+<html>
+<head>
+<title><home page></title>
+</head>
+<body>
+<center>
+<h3> HELLO MAMA COOL</h3>
+<p> every thing is okey . always be cool</p>
+</body>
+</html>
